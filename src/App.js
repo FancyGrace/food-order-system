@@ -16,7 +16,7 @@ function App() {
   };
 
   // comment
-  // another comment
+  // another comment no need
 
   return (
     <CartProvider>
