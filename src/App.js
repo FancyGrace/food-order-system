@@ -16,6 +16,7 @@ function App() {
   };
 
   // comment
+  // another comment
 
   return (
     <CartProvider>
